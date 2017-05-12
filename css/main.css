@@ -1,3 +1,10 @@
-/* Escribe acá tus estilos*/
+body {
+	height: 745px;
+  background-image: -webkit-linear-gradient(#cfeaf7, #3ca9d2);
+}
 
-
+h1{
+	color: #30baba;
+	-webkit-text-stroke: 1px #028888;
+	text-align: center;
+} 
