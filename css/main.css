@@ -1,6 +1,16 @@
+*{
+	font-family: font-family: 'Lobster', cursive;
+} 
 body {
 	height: 745px;
   background-image: -webkit-linear-gradient(#cfeaf7, #3ca9d2);
+}
+
+#formulario{
+	width: 80%
+	margin: 0 auto;
+	padding:  20px;
+	margin-top: 20px;
 }
 
 h1{
@@ -8,3 +18,4 @@ h1{
 	-webkit-text-stroke: 1px #028888;
 	text-align: center;
 } 
+
